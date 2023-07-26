@@ -1,4 +1,4 @@
-### Hi👋 My name is Jack Aguirre
+# Hi👋 My name is Jack Aguirre
 Mechatronic Engineer
 --------------------------------
 
