@@ -1,7 +1,8 @@
 ### Hi👋 My name is Jack Aguirre
 ================================
 Mechatronic Engineer
---------------------------
+--------------------------------
+
 
 I've been learning about data analysis and robotic, both passionate me to keep learning.
 * 🌱  I’m currently learning about data analysis.
