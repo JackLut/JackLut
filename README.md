@@ -5,6 +5,7 @@ Mechatronic Engineer
 
 I've been learning about data analysis and robotic, both passionate me to keep learning.
 * 🌱  I’m currently learning about data analysis.
+* 🔥  I'm currently working about rocks analysis with artificial intelligence.
 * 🌍  I'm based in Trujillo, Peru.
 * ✉️  You can contact me at [jacklut.av@gmail.com](mailto:jacklut.av@gmail.com).
 * 🧠  I'm learning Data Analysis.
